@@ -3,5 +3,11 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "workbench.iconTheme": "symbols",
+  "editor.fontSize": 18,
+  "editor.scrollBeyondLastColumn": 5,
+  "editor.fastScrollSensitivity": 8,
+  "editor.inertialScroll": true,
+  "editor.mouseWheelScrollSensitivity": 5
 }
